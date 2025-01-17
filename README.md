@@ -1,2 +1,3 @@
 # Basic_project
-this is my first repository
+This is my first Git Repository
+Author -krushna kadam
